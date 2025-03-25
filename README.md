@@ -2,7 +2,7 @@
 
 This repository contains a detailed analysis of an e-commerce dataset from the UK, sourced from Kaggle, with a focus on Recency, Frequency, and Monetary (RFM) analysis. The dataset consists of transactional data from an online retail store. This project aims to segment customers based on their purchasing behavior to provide actionable insights for business strategy.
 
-#Project Overview
+# Project Overview
 
 The goal of this analysis is to segment customers based on three key metrics:
 
