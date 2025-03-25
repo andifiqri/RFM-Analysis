@@ -1,9 +1,7 @@
 # RFM-Analysis
-
 This repository contains a detailed analysis of an e-commerce dataset from the UK, sourced from Kaggle, with a focus on Recency, Frequency, and Monetary (RFM) analysis. The dataset consists of transactional data from an online retail store. This project aims to segment customers based on their purchasing behavior to provide actionable insights for business strategy.
 
 # Project Overview
-
 The goal of this analysis is to segment customers based on three key metrics:
 
 •	Recency: How recently a customer made a purchase.
@@ -44,7 +42,6 @@ Before performing RFM analysis, the following steps were taken:
 •	Revenue Calculation: A new column, Revenue, was created by multiplying UnitPrice and Quantity to reflect the total revenue per transaction.
 
 # RFM Analysis
-
 Steps Taken:
 
 1.	RFM Metric Calculation:
@@ -69,8 +66,7 @@ Based on the RFM scores, customers were segmented into the following categories:
 
 •	Lost Customers: Customers who have not made a purchase recently.
 
-#RFM Scoring:
-
+# RFM Scoring:
 Each customer is assigned an RFM score based on their Recency (R), Frequency (F), and Monetary (M) scores. These scores are then used to categorize customers into different segments for better targeting and personalized marketing strategies.
 Segmentation Strategy:
 The RFM scores were used to divide customers into 5 segments:
